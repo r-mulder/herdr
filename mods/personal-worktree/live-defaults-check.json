@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "Identified repo-a's common Git directory",
+    "Native atomic storage persists repo-a's own script",
+    "Identified repo-b's common Git directory",
+    "Native atomic storage persists repo-b's own script",
+    "repo-a's prefilled default controls render without live errors",
+    "repo-b's prefilled default controls render without live errors",
+    "linked-a's prefilled default controls render without live errors",
+    "Linked worktree inherits its main repository's default"
+  ],
+  "passed": true
+}

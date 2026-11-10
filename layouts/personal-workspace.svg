@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <rect width="640" height="400" rx="12" fill="#17191d"/>
+  <path d="M190 0v400M190 36h450M190 374h450" stroke="#34373d"/>
+  <g fill="#aeb5bf" font-family="sans-serif" font-size="13"><text x="24" y="30">Herdr · Worktrees</text><text x="20" y="65">Spaces</text><text x="25" y="98">▣ Project</text><text x="45" y="126">⑂ feature/login</text><text x="45" y="153">⑂ fix/search</text><text x="20" y="218">▸ Recently closed (2)</text><text x="20" y="265">Agents</text><text x="211" y="25">Terminal</text></g>
+  <rect x="202" y="48" width="425" height="310" rx="9" fill="#202328" stroke="#34373d"/>
+  <text x="218" y="76" fill="#71b8a8" font-family="monospace" font-size="12">~/project $</text>
+</svg>

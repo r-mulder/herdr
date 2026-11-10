@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "Existing worktree dialog creates a new workspace from the selected space",
+    "Created workspace has its own live terminal",
+    "Creation records its parent space",
+    "Worktree is nested immediately below its parent in visible navigation",
+    "Close creates a persisted four-day archive entry",
+    "Soft close preserves the same workspace and terminal",
+    "Archived workspace is excluded from active navigation",
+    "Reopen cancels expiry and returns to the original live terminal",
+    "Closing the last tab routes through soft close",
+    "Closing the last pane routes through soft close",
+    "Expiry ends only the disposable workspace after core confirms closing",
+    "Expiry clears the recently closed entry",
+    "Expiry removes the verified clean linked worktree",
+    "Cleanup preserves the Git branch and main checkout",
+    "Expanded Recently closed rows and the empty-workspace view render without live errors"
+  ],
+  "passed": true
+}

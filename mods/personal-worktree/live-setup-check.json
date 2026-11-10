@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Successful Bash setup opens the new worktree in the live app",
+    "Bash ran inside the new checkout rather than the parent repository, including symlinked worktree roots",
+    "Only the disposable success worktree's terminal was ended during test cleanup",
+    "Failed setup does not report success or open a replacement terminal",
+    "Failed setup preserves its partially initialized checkout",
+    "Bash stops on the first failing command",
+    "Multiline script and failure/recovery controls render without live errors",
+    "Only marker files created by the test were removed",
+    "Disposable checkout was removed without force",
+    "Disposable checkout was removed without force"
+  ],
+  "passed": true
+}
